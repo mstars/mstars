@@ -1,16 +1,16 @@
 <h1 align="center">👋 Hello, I'm Linto Thomas</h1>
 
 <p align="center">
-## Backend Engineer | Node.js | Distributed Systems | Web3
-
-👨‍💻 6+ years experience building scalable backend systems  
-🔒 Expert in API security, blockchain protocols, and BFF architectures  </p>
+ Backend Engineer | Node.js | Distributed Systems | Web3
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m **Linto Thomas**, a passionate and professional Web Developer currently working as a **Senior Software Engineer** at **QBurst Technologies**.
+
+👨‍💻 6+ years experience building scalable backend systems  
+🔒 Expert in API security, blockchain protocols, and BFF architectures  
 
 Skilled in:
 - 🌐 Frontend: AngularJS, Bootstrap, HTML5, CSS3, JavaScript
