@@ -1,8 +1,10 @@
 <h1 align="center">👋 Hello, I'm Linto Thomas</h1>
 
 <p align="center">
-  💻 Senior Software Engineer | 🌱 Nature Lover | 🚀 Blockchain Enthusiast
-</p>
+## Backend Engineer | Node.js | Distributed Systems | Web3
+
+👨‍💻 6+ years experience building scalable backend systems  
+🔒 Expert in API security, blockchain protocols, and BFF architectures  </p>
 
 ---
 
