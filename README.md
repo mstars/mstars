@@ -1,79 +1,85 @@
 <h1 align="center">👋 Hello, I'm Linto Thomas</h1>
 
 <p align="center">
- Backend Engineer | Node.js | Distributed Systems | Web3
+  <strong>Backend Engineer</strong> &nbsp;|&nbsp; Node.js &nbsp;|&nbsp; Distributed Systems &nbsp;|&nbsp; Web3 Enthusiast
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
+- 👨‍💻 **6+ years** of experience building scalable backend systems  
+- 🔒 Specialized in **API security**, blockchain protocols, and **BFF architectures**
+- ⚙️ Passionate about decentralized tech and high-performance APIs
 
-👨‍💻 6+ years experience building scalable backend systems  
-🔒 Expert in API security, blockchain protocols, and BFF architectures  
+### 🛠️ Tech Stack
 
-Skilled in:
-Languages: JavaScript, TypeScript, SQL, Solidity   
-Backend: Node.js, Express, LoopBack, Serverless   
-Frontend: Angular, Vue.js, HTML5, CSS3, Ionic    
-Databases: PostgreSQL, MongoDB, MySQL, SQL
-Server, MariaDB   
-DevOps & Tools: Docker, Git, Azure DevOps,
-Firebase, CI/CD, Jira, Confluence   
-Blockchain: Ethereum, Solidity, Web3.js, EOS,
-Stellar, Algorand, Corda   
-Cloud & Hosting: AWS, Azure   
-Security: Penetration Testing, OWASP , API Security   
-Project Management: Agile, Scrum   
-Other: Microservices Architecture, RESTful APIs,
-WebSocket, JWT, Redis   
-
-> 📬 capcod3r@gmail.com   
-> 📞 +91-9846047279  
-> 🔗 [github](https://github.com/mstars)   
-> 🌐 [my digital world](https://capcod3r.com)
+**Languages**: JavaScript, TypeScript, SQL, Solidity  
+**Backend**: Node.js, Express, LoopBack, Serverless  
+**Frontend**: Angular, Vue.js, HTML5, CSS3, Ionic  
+**Databases**: PostgreSQL, MongoDB, MySQL, MariaDB, SQL Server  
+**DevOps & Tools**: Docker, Git, Azure DevOps, Firebase, CI/CD, Jira, Confluence  
+**Blockchain**: Ethereum, Solidity, Web3.js, EOS, Stellar, Algorand, Corda  
+**Cloud**: AWS, Azure  
+**Security**: Penetration Testing, OWASP, API Security  
+**Project Management**: Agile, Scrum  
+**Other**: Microservices Architecture, RESTful APIs, WebSocket, JWT, Redis
 
 ---
 
-## 📅 Timeline
+## 📬 Contact
+
+- 📧 Email: [capcod3r@gmail.com](mailto:capcod3r@gmail.com)  
+- 📞 Phone: +91-9846047279  
+- 🧑‍💻 GitHub: [github.com/mstars](https://github.com/mstars)  
+- 🌐 Website: [capcod3r.com](https://capcod3r.com)
+
+---
+
+## 📅 Work Experience
 
 ### 🚀 QBurst Technologies  
 **Senior Software Engineer**  
 _March 2020 – Present_  
-> Global product development and consulting company offering cognitive solutions, end-to-end development, and robust digital services.
+> Building cognitive solutions, enterprise-grade platforms, and scalable backends for global clients.
+
+---
 
 ### 💡 NetObjex Inc  
 **Full Stack Engineer**  
 _October 2018 – March 2020_  
-> California-based Cognitive Automation Platform using IoT, AI, and Blockchain for Smart Cities, Supply Chain, and more.
+> Worked on IoT + Blockchain platforms for Smart Cities, Supply Chains, and Connected Assets.
 
 ---
 
-## 🎓 Academics
+## 🎓 Education
 
-### 🎓 MCA – Master of Computer Applications  
-**Mar Athanasius College, Thiruvalla (2016–2018)**  
-- National-level fest organizer (Technitrous 2017, 2018)  
-- Workshop on Python  
-- Active in Volleyball & CSI
-
-### 🎓 BCA – Bachelor of Computer Applications  
-**St. Berchmans College, Changanassery (2013–2016)**  
-- Won multiple IT Fest competitions  
-- Active in college volleyball and CSI
+### 🎓 Master of Computer Applications (MCA)  
+**Mar Athanasius College, Thiruvalla** (2016–2018)  
+- Organized national-level fest *Technitrous*  
+- Python Workshop Contributor  
+- Active in Volleyball and CSI
 
 ---
 
-## 🧠 Expertise
-
-| Domain               | Technologies & Skills                                                                 |
-|----------------------|---------------------------------------------------------------------------------------|
-| 🖥️ Web Design        | HTML5, CSS3, Bootstrap 4                                                              |
-| 💻 Web Development   | AngularJS, ReactJS, VueJS, Node.js, Ionic                                             |
-| 🔐 Pen Testing       | Cybersecurity Enthusiast, Penetration Testing                                         |
-| 📲 Mobile Dev        | Ionic, AngularJS to Cross-platform Conversion                                         |
-| 🔗 Blockchain        | Ethereum (Solidity), Stellar, Dreamchain (EOS Clone)                                  |
-| 🔌 API Development   | REST APIs with Express, Loopback, Microservices Architecture                          |
+### 🎓 Bachelor of Computer Applications (BCA)  
+**St. Berchmans College, Changanassery** (2013–2016)  
+- Multiple IT Fest wins  
+- Member of college volleyball team and CSI
 
 ---
 
+## 🧠 Expertise at a Glance
+
+| Domain             | Tools & Technologies                                                                   |
+|-------------------|------------------------------------------------------------------------------------------|
+| 🌐 Web Design      | HTML5, CSS3, Bootstrap                                                                  |
+| 💻 Web Development | AngularJS, ReactJS, VueJS, Node.js, Ionic                                               |
+| 🔐 Security        | Cybersecurity, Penetration Testing, API Security                                       |
+| 📱 Mobile Apps     | Ionic Framework, Cross-platform Mobile Conversion                                      |
+| 🪙 Blockchain       | Ethereum (Solidity), Stellar, Dreamchain (EOS Clone), Web3.js                          |
+| 🔌 API Architecture| REST APIs, Express.js, LoopBack, Microservices, WebSocket, JWT                         |
+
+---
+
+⭐ *Let’s build something amazing together!*
