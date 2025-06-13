@@ -13,15 +13,25 @@
 🔒 Expert in API security, blockchain protocols, and BFF architectures  
 
 Skilled in:
-- 🌐 Frontend: AngularJS, Bootstrap, HTML5, CSS3, JavaScript
-- 🔧 Backend: Node.js, Express.js, Loopback
-- 📱 Mobile: Ionic, Hybrid Apps
-- 🔐 Cybersecurity: Penetration Testing & API Security
-- ⛓️ Blockchain: Ethereum (Solidity), Stellar, EOS (Dreamchain)
+Languages: JavaScript, TypeScript, SQL, Solidity   
+Backend: Node.js, Express, LoopBack, Serverless   
+Frontend: Angular, Vue.js, HTML5, CSS3, Ionic    
+Databases: PostgreSQL, MongoDB, MySQL, SQL
+Server, MariaDB   
+DevOps & Tools: Docker, Git, Azure DevOps,
+Firebase, CI/CD, Jira, Confluence   
+Blockchain: Ethereum, Solidity, Web3.js, EOS,
+Stellar, Algorand, Corda   
+Cloud & Hosting: AWS, Azure   
+Security: Penetration Testing, OWASP , API Security   
+Project Management: Agile, Scrum   
+Other: Microservices Architecture, RESTful APIs,
+WebSocket, JWT, Redis   
 
-> 📬 vellackallintothomas@gmail.com  
+> 📬 capcod3r@gmail.com   
 > 📞 +91-9846047279  
-> 🔗 [vellackallintothomas](https://github.com/vellackallintothomas)
+> 🔗 [github](https://github.com/mstars)   
+> 🌐 [my digital world](https://capcod3r.com)
 
 ---
 
