@@ -46,8 +46,8 @@ _Oct 2025 – Present_
 
 
 ### 🚀 QBurst Technologies
-**Senior Software Engineer**  
-_March 2020 – Sept 2025_  
+**Senior Software Engineer**
+_March 2020 – Sept 2025_
 > Building cognitive solutions, enterprise-grade platforms, and scalable backends for global clients.
 
 ---
