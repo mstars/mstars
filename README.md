@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-- 👨‍💻 **6+ years** of experience building scalable backend systems  
+- 👨‍💻 **7+ years** of experience building scalable backend systems  
 - 🔒 Specialized in **API security**, blockchain protocols, and **BFF architectures**
 - ⚙️ Passionate about decentralized tech and high-performance APIs
 
@@ -40,7 +40,14 @@
 
 ### 🚀 QBurst Technologies  
 **Senior Software Engineer**  
-_March 2020 – Present_  
+_Oct 2025 – Present_  
+> I bridge the gap between engineering and business. I collaborate with stakeholders to refine requirements, break down complex features into deliverable milestones, and ensure on-time, high‑quality releases. I’m deeply involved in sprint planning, prioritization, and release management so that the product roadmap aligns with technical realities and user needs.
+
+
+
+### 🚀 Spericorn Technologies
+**Product Delivery Manager |**  
+_March 2020 – Sept 2025_  
 > Building cognitive solutions, enterprise-grade platforms, and scalable backends for global clients.
 
 ---
